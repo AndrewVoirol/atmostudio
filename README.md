@@ -9,7 +9,7 @@ A 3D weather card designer powered by GLSL shaders and Gemini AI. Build weather 
 ## Quick Start
 
 ```bash
-git clone https://github.com/yourusername/atmostudio.git
+git clone https://github.com/AndrewVoirol/atmostudio.git
 cd atmostudio
 npm install
 npm run dev
